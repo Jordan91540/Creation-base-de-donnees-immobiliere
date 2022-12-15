@@ -4,7 +4,8 @@ Création et utilisation d'une base de données immobilière avec SQL
 ### Mise en situation
 Vous êtes Data Analyst chez Laplace Immo, un réseau national d'agences immobilières. Votre mission consiste à créer la base de données permettant de collecter les transactions immobilières et foncières en France. Vous utiliserez ensuite cette base pour analyser le marché et aider les différentes agences à mieux accompagner leurs clients.
 
-### Données brutes
+### Données
+* 
 ### Étapes
 * Création d'un dictionnaire de données
 * Création du modèle conceptuel des données
