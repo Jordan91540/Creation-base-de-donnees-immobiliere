@@ -1,4 +1,4 @@
-# Creation-base-de-donnees-immobiliere
+# Creation base de données immobilière
 ## Création et utilisation d'une base de données immobilière avec SQL
 
 *Projet réalisé dans le cadre de ma formation Openclassrooms*  
